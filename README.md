@@ -15,6 +15,9 @@ Over the years, what an “API” is has often described any sort of generic con
 
 
 1.     Modern APIs adhere to standards (typically HTTP and REST), that are developer-friendly, easily accessible and understood broadly
-2.     They are treated more like products than code. They are designed for consumption for specific audiences (e.g., mobile developers), they are documented, and they are versioned in a way that users can have certain expectations of its maintenance and lifecycle.
-3.     Because they are much more standardized, they have a much stronger discipline for security and governance, as well as monitored and managed for performance and scale
-4.     As any other piece of productized software, the modern API has its own software development lifecycle (SDLC) of designing, testing, building, managing, and versioning.Also, modern APIs are well documented for consumption and versioning.
+2.     They are treated more like products than code. They are designed for consumption for specific audiences (e.g., mobile developers),
+       they are documented, and they are versioned in a way that users can have certain expectations of its maintenance and lifecycle.
+3.     Because they are much more standardized, they have a much stronger discipline for security and governance, as well as monitored 
+       and managed for performance and scale
+4.     As any other piece of productized software, the modern API has its own software development lifecycle (SDLC) of designing, 
+       testing, building, managing, and versioning.Also,modern APIs are well documented for consumption and versioning.
